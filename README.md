@@ -62,9 +62,10 @@ These tables were joined using `SK_ID_CURR` to create borrower-level credit hist
 
 An interactive Tableau dashboard was created to visualize borrower risk patterns across employment length, education, income, occupation, and annuity burden.
 
-Dashboard link: PASTE YOUR TABLEAU PUBLIC LINK HERE
+Dashboard link: (https://public.tableau.com/app/profile/jordan.baldoceda.pizarro/viz/HomeCreditDefaultRiskAnalytics/CreditRiskAnalyticsDashboard)
 
-![Tableau Dashboard](images/dashboard.png)
+<img width="1891" height="1572" alt="image" src="https://github.com/user-attachments/assets/56d7317a-aa82-4547-9d85-6a0c5b075721" />
+
 
 ## Modeling Results
 
